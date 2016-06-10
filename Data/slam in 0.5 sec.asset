@@ -9,23 +9,23 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: e690696175d0349558250557de836a94, type: 3}
-  m_Name: ui_linear_animation
+  m_Name: slam in 0.5 sec
   m_EditorClassIdentifier: 
+  looped: 1
+  animationScale: 1
   curve:
     serializedVersion: 2
     m_Curve:
     - time: 0
-      value: 0
-      inSlope: 2
-      outSlope: 2
+      value: 1
+      inSlope: -0.2603852
+      outSlope: -0.2603852
       tangentMode: 0
-    - time: 1.001321
-      value: 1.002439
-      inSlope: 0
-      outSlope: 0
+    - time: 1
+      value: 0
+      inSlope: -3.446764
+      outSlope: -3.446764
       tangentMode: 0
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 0
-  animationScale: 1
-  looped: 1
