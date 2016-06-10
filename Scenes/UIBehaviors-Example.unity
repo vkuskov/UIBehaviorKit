@@ -1639,7 +1639,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 733121555696b466a8e8afa2b350e103, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  animation: {fileID: 11400000, guid: 969c3cacb5e4f44779674dd9cf91a09d, type: 2}
+  animation: {fileID: 11400000, guid: 5bab13de8541e41ccba21dcf8b637fd3, type: 2}
   targets: []
   from: {x: 1, y: 1, z: 1}
   to: {x: 0.5, y: 0.5, z: 0.5}
